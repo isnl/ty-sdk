@@ -29,7 +29,7 @@ ChatCompletionResponseMessage
 
 #### Defined in
 
-[src/types.ts:245](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L245)
+[src/types.ts:245](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L245)
 
 ___
 
@@ -45,4 +45,4 @@ ChatCompletionResponseMessage
 
 #### Defined in
 
-[src/types.ts:239](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L239)
+[src/types.ts:239](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L239)

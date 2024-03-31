@@ -66,7 +66,7 @@ node_modules/typescript/lib/lib.es2022.error.d.ts:28
 
 #### Defined in
 
-[src/types.ts:82](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L82)
+[src/types.ts:82](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L82)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:81](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L81)
+[src/types.ts:81](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L81)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:79](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L79)
+[src/types.ts:79](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L79)
 
 ___
 
@@ -96,4 +96,4 @@ ___
 
 #### Defined in
 
-[src/types.ts:80](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L80)
+[src/types.ts:80](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L80)

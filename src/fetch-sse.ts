@@ -14,7 +14,6 @@ export async function fetchSSE(
 ) {
   const { onMessage, onError, ...fetchOptions } = options
   const res = await fetch(url, fetchOptions)
-  console.log('res.code', res.status)
 
   if (!res.ok) {
     let reason: string
@@ -24,11 +23,11 @@ export async function fetchSSE(
     } catch (err) {
       reason = res.statusText
     }
-
-    const msg = `TongYi error ${res.status}: ${reason}`
-    const error = new types.TongYiError(msg, { cause: res })
-    error.statusCode = res.status
-    error.statusText = res.statusText
+    const errData = JSON.parse(reason)
+    const msg = `TongYi error ${errData.code}: ${errData.message}`
+    const error = new types.TongYiError(msg)
+    error.statusCode = errData.code
+    error.statusText = errData.message
     throw error
   }
   const parser = createParser((event) => {

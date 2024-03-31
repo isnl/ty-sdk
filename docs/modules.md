@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[src/types.ts:148](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L148)
+[src/types.ts:148](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L148)
 
 ___
 
@@ -68,7 +68,7 @@ https://chat.openapi.com/backend-api/conversation
 
 #### Defined in
 
-[src/types.ts:104](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L104)
+[src/types.ts:104](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L104)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:162](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L162)
+[src/types.ts:162](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L162)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:5](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L5)
+[src/types.ts:5](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L5)
 
 ___
 
@@ -122,7 +122,7 @@ Returns a chat message from a store by it's ID (or null if not found).
 
 #### Defined in
 
-[src/types.ts:86](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L86)
+[src/types.ts:86](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L86)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:168](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L168)
+[src/types.ts:168](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L168)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:53](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L53)
+[src/types.ts:53](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L53)
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:181](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L181)
+[src/types.ts:181](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L181)
 
 ___
 
@@ -184,7 +184,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:186](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L186)
+[src/types.ts:186](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L186)
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:131](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L131)
+[src/types.ts:131](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L131)
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:150](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L150)
+[src/types.ts:150](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L150)
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:3](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L3)
+[src/types.ts:3](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L3)
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:55](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L55)
+[src/types.ts:55](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L55)
 
 ___
 
@@ -276,7 +276,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:37](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L37)
+[src/types.ts:37](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L37)
 
 ___
 
@@ -303,7 +303,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:7](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L7)
+[src/types.ts:7](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L7)
 
 ___
 
@@ -329,4 +329,4 @@ Upserts a chat message to a store.
 
 #### Defined in
 
-[src/types.ts:89](https://github.com/isnl/ty-sdk/blob/52769c2/src/types.ts#L89)
+[src/types.ts:89](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L89)
