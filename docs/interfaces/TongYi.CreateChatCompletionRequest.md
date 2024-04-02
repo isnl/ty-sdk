@@ -41,7 +41,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:336](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L336)
+[src/types.ts:336](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L336)
 
 ___
 
@@ -66,7 +66,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:328](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L328)
+[src/types.ts:328](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L328)
 
 ___
 
@@ -82,7 +82,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:313](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L313)
+[src/types.ts:313](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L313)
 
 ___
 
@@ -98,7 +98,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:271](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L271)
+[src/types.ts:271](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L271)
 
 ___
 
@@ -114,7 +114,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:265](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L265)
+[src/types.ts:265](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L265)
 
 ___
 
@@ -130,7 +130,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:342](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L342)
+[src/types.ts:342](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L342)
 
 ___
 
@@ -146,7 +146,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:295](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L295)
+[src/types.ts:295](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L295)
 
 ___
 
@@ -162,7 +162,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:307](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L307)
+[src/types.ts:307](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L307)
 
 ___
 
@@ -178,7 +178,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:301](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L301)
+[src/types.ts:301](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L301)
 
 ___
 
@@ -194,7 +194,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:277](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L277)
+[src/types.ts:277](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L277)
 
 ___
 
@@ -210,7 +210,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:289](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L289)
+[src/types.ts:289](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L289)
 
 ___
 
@@ -226,4 +226,4 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:283](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L283)
+[src/types.ts:283](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L283)
