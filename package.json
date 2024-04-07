@@ -16,10 +16,8 @@
     }
   },
   "files": [
-    "build",
-    "bin"
+    "build"
   ],
-  "bin": "./bin/cli.js",
   "engines": {
     "node": ">=14"
   },
