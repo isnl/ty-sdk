@@ -29,7 +29,7 @@ CreateChatCompletionResponse
 
 #### Defined in
 
-[src/types.ts:367](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L367)
+[src/types.ts:367](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L367)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:368](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L368)
+[src/types.ts:368](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L368)
 
 ___
 
@@ -55,7 +55,7 @@ CreateChatCompletionResponse
 
 #### Defined in
 
-[src/types.ts:361](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L361)
+[src/types.ts:361](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L361)
 
 ___
 
@@ -69,4 +69,4 @@ CreateChatCompletionResponse
 
 #### Defined in
 
-[src/types.ts:374](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L374)
+[src/types.ts:374](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L374)

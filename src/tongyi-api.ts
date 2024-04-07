@@ -7,7 +7,7 @@ import * as types from './types'
 import { fetch as globalFetch } from './fetch'
 import { fetchSSE } from './fetch-sse'
 
-const TONGYI_MODEL = 'qwen-max'
+const TONGYI_MODEL = 'qwen-plus'
 
 const USER_LABEL_DEFAULT = 'user'
 const ASSISTANT_LABEL_DEFAULT = 'assistant'
@@ -166,7 +166,7 @@ export class TongYiAPI {
           Accept: stream ? 'text/event-stream' : '*/*'
         }
         const body = {
-          model: 'qwen-max',
+          model: TONGYI_MODEL,
           parameters: {
             ...this._completionParams,
             ...completionParams,

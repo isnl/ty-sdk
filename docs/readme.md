@@ -74,13 +74,13 @@ async function example() {
 }
 ```
 
-您可以使用 `completionParams` 来覆盖默认的 `model` (`qwen-max`) 和任何 [官方文档参数](https://help.aliyun.com/document_detail/2712576.html)。
+您可以使用 `completionParams` 来覆盖默认的 `model` (`qwen-plus`) 和任何 [官方文档参数](https://help.aliyun.com/document_detail/2712576.html)。
 
 ```ts
 const api = new TongYiAPI({
   apiKey: process.env.TY_API_KEY,
   completionParams: {
-    model: 'qwen-plus',
+    model: 'qwen-turbo',
     temperature: 0.5,
     top_p: 0.8
   }

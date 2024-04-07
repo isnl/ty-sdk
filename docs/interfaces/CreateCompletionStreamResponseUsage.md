@@ -30,7 +30,7 @@ CreateCompletionResponseUsage
 
 #### Defined in
 
-[src/types.ts:98](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L98)
+[src/types.ts:98](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L98)
 
 ___
 
@@ -48,7 +48,7 @@ CreateCompletionResponseUsage
 
 #### Defined in
 
-[src/types.ts:433](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L433)
+[src/types.ts:433](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L433)
 
 ___
 
@@ -66,4 +66,4 @@ CreateCompletionResponseUsage
 
 #### Defined in
 
-[src/types.ts:427](https://github.com/isnl/ty-sdk/blob/af2562d/src/types.ts#L427)
+[src/types.ts:427](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L427)

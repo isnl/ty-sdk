@@ -32,7 +32,7 @@ Creates a new client wrapper around TongYi's chat completion API, mimicing the o
 
 #### Defined in
 
-[src/tongyi-api.ts:46](https://github.com/isnl/ty-sdk/blob/af2562d/src/tongyi-api.ts#L46)
+[src/tongyi-api.ts:46](https://github.com/isnl/ty-sdk/blob/fb52f37/src/tongyi-api.ts#L46)
 
 ## Accessors
 
@@ -46,7 +46,7 @@ Creates a new client wrapper around TongYi's chat completion API, mimicing the o
 
 #### Defined in
 
-[src/tongyi-api.ts:290](https://github.com/isnl/ty-sdk/blob/af2562d/src/tongyi-api.ts#L290)
+[src/tongyi-api.ts:290](https://github.com/isnl/ty-sdk/blob/fb52f37/src/tongyi-api.ts#L290)
 
 • `set` **apiKey**(`apiKey`): `void`
 
@@ -62,7 +62,7 @@ Creates a new client wrapper around TongYi's chat completion API, mimicing the o
 
 #### Defined in
 
-[src/tongyi-api.ts:294](https://github.com/isnl/ty-sdk/blob/af2562d/src/tongyi-api.ts#L294)
+[src/tongyi-api.ts:294](https://github.com/isnl/ty-sdk/blob/fb52f37/src/tongyi-api.ts#L294)
 
 ## Methods
 
@@ -94,4 +94,4 @@ The response from TongYiQianWen
 
 #### Defined in
 
-[src/tongyi-api.ts:121](https://github.com/isnl/ty-sdk/blob/af2562d/src/tongyi-api.ts#L121)
+[src/tongyi-api.ts:121](https://github.com/isnl/ty-sdk/blob/fb52f37/src/tongyi-api.ts#L121)
