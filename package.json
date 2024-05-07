@@ -1,6 +1,6 @@
 {
   "name": "ty-sdk",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "通义千问 大语言模型 Nodejs版本的 SDK",
   "author": "Peanut<htmljs@qq.com>",
   "repository": "isnl/ty-sdk",

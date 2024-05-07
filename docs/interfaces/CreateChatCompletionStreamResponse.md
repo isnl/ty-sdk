@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/types.ts:191](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L191)
+[src/types.ts:193](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L193)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:192](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L192)
+[src/types.ts:194](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L194)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:190](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L190)
+[src/types.ts:192](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L192)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/types.ts:93](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L93)
+[src/types.ts:95](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L95)

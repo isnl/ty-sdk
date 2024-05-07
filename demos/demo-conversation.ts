@@ -15,6 +15,7 @@ dotenv.config()
 async function main() {
   const api = new TongYiAPI({
     apiKey: process.env.TY_API_KEY,
+    model: 'qwen1.5-32b-chat',
     debug: false
   })
 

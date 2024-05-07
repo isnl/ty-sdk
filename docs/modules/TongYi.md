@@ -34,9 +34,9 @@
 
 #### Defined in
 
-[src/types.ts:221](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L221)
+[src/types.ts:223](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L223)
 
-[src/types.ts:226](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L226)
+[src/types.ts:228](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L228)
 
 ___
 
@@ -46,9 +46,9 @@ ___
 
 #### Defined in
 
-[src/types.ts:247](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L247)
+[src/types.ts:249](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L249)
 
-[src/types.ts:252](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L252)
+[src/types.ts:254](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L254)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:349](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L349)
+[src/types.ts:345](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L345)
 
 ## Variables
 
@@ -78,9 +78,9 @@ ___
 
 #### Defined in
 
-[src/types.ts:221](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L221)
+[src/types.ts:223](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L223)
 
-[src/types.ts:226](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L226)
+[src/types.ts:228](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L228)
 
 ___
 
@@ -98,6 +98,6 @@ ___
 
 #### Defined in
 
-[src/types.ts:247](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L247)
+[src/types.ts:249](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L249)
 
-[src/types.ts:252](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L252)
+[src/types.ts:254](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L254)

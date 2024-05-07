@@ -27,7 +27,7 @@ CreateChatCompletionResponseChoisesInner
 
 #### Defined in
 
-[src/types.ts:393](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L393)
+[src/types.ts:389](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L389)
 
 ___
 
@@ -41,4 +41,4 @@ CreateChatCompletionResponseChoisesInner
 
 #### Defined in
 
-[src/types.ts:387](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L387)
+[src/types.ts:383](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L383)

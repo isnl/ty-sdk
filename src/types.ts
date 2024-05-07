@@ -7,8 +7,10 @@ export type FetchFn = typeof fetch
 export type TongYiAPIOptions = {
   apiKey: string
 
-  /** @defaultValue `'https://api.TongYi.com'` **/
+  /** @defaultValue `'https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation'` **/
   apiBaseUrl?: string
+
+  model?: string
 
   apiOrg?: string
 
@@ -257,12 +259,6 @@ export namespace TongYi {
    * @interface CreateChatCompletionRequest
    */
   export interface CreateChatCompletionRequest {
-    /**
-     * 指定用于对话的通义千问模型名，目前可选择qwen-turbo、qwen-plus、qwen-max、qwen-max-1201和qwen-max-longcontext。
-     * @type {string}
-     * @memberof CreateChatCompletionRequest
-     */
-    model: string
     /**
      * 用户与模型的对话历史，对话接口未来都会有message传输，list中的每个元素形式为{"role":角色, "content": 内容}。角色当前可选值：system、user、assistant和tool。未来可以扩展到更多role。
      * @type {Array<ChatCompletionRequestMessage>}

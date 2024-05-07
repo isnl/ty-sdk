@@ -7,8 +7,6 @@ import * as types from './types'
 import { fetch as globalFetch } from './fetch'
 import { fetchSSE } from './fetch-sse'
 
-const TONGYI_MODEL = 'qwen-plus'
-
 const USER_LABEL_DEFAULT = 'user'
 const ASSISTANT_LABEL_DEFAULT = 'assistant'
 
@@ -16,6 +14,7 @@ export class TongYiAPI {
   protected _apiKey: string
   protected _apiBaseUrl: string
   protected _debug: boolean
+  protected _model: string
 
   protected _systemMessage: string
   protected _completionParams: Omit<
@@ -47,6 +46,7 @@ export class TongYiAPI {
     const {
       apiKey,
       apiBaseUrl = 'https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation',
+      model = 'qwen-plus',
       debug = false,
       messageStore,
       completionParams,
@@ -58,11 +58,11 @@ export class TongYiAPI {
 
     this._apiKey = apiKey
     this._apiBaseUrl = apiBaseUrl
+    this._model = model
     this._debug = !!debug
     this._fetch = fetch
 
     this._completionParams = {
-      model: TONGYI_MODEL,
       ...completionParams
     }
 
@@ -166,7 +166,7 @@ export class TongYiAPI {
           Accept: stream ? 'text/event-stream' : '*/*'
         }
         const body = {
-          model: TONGYI_MODEL,
+          model: this._model,
           parameters: {
             ...this._completionParams,
             ...completionParams,

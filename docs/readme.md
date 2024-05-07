@@ -1,5 +1,9 @@
 ty-sdk / [Exports](modules.md)
 
+<p align="right">
+   <strong>中文</strong> | <a href="./README.en.md">English</a>
+</p>
+
 # 通义千问 大语言模型 Nodejs SDK <!-- omit in toc -->
 
 [![NPM](https://img.shields.io/npm/v/ty-sdk.svg)](https://www.npmjs.com/package/ty-sdk) [![Build Status](https://github.com/isnl/ty-sdk/actions/workflows/test.yml/badge.svg)](https://github.com/isnl/ty-sdk/actions/workflows/test.yml) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/isnl/ty-sdk/blob/main/license) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)

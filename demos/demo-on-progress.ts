@@ -12,9 +12,13 @@ dotenv.config()
  * ```
  */
 async function main() {
-  const api = new TongYiAPI({ apiKey: process.env.TY_API_KEY })
+  const api = new TongYiAPI({
+    apiKey: process.env.TY_API_KEY,
+    model: 'qwen1.5-72b-chat',
+    debug: true
+  })
 
-  const prompt = '将一个比较好笑的冷笑话'
+  const prompt = 'js递归demo'
 
   console.log(prompt)
   const res = await api.sendMessage(prompt, {

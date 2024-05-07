@@ -16,7 +16,6 @@ CreateChatCompletionRequest
 - [incremental\_output](TongYi.CreateChatCompletionRequest.md#incremental_output)
 - [max\_tokens](TongYi.CreateChatCompletionRequest.md#max_tokens)
 - [messages](TongYi.CreateChatCompletionRequest.md#messages)
-- [model](TongYi.CreateChatCompletionRequest.md#model)
 - [repetition\_penalty](TongYi.CreateChatCompletionRequest.md#repetition_penalty)
 - [seed](TongYi.CreateChatCompletionRequest.md#seed)
 - [stop](TongYi.CreateChatCompletionRequest.md#stop)
@@ -41,7 +40,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:336](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L336)
+[src/types.ts:332](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L332)
 
 ___
 
@@ -66,7 +65,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:328](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L328)
+[src/types.ts:324](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L324)
 
 ___
 
@@ -82,7 +81,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:313](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L313)
+[src/types.ts:309](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L309)
 
 ___
 
@@ -98,23 +97,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:271](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L271)
-
-___
-
-### model
-
-• **model**: `string`
-
-指定用于对话的通义千问模型名，目前可选择qwen-turbo、qwen-plus、qwen-max、qwen-max-1201和qwen-max-longcontext。
-
-**`Memberof`**
-
-CreateChatCompletionRequest
-
-#### Defined in
-
-[src/types.ts:265](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L265)
+[src/types.ts:267](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L267)
 
 ___
 
@@ -130,7 +113,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:342](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L342)
+[src/types.ts:338](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L338)
 
 ___
 
@@ -146,7 +129,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:295](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L295)
+[src/types.ts:291](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L291)
 
 ___
 
@@ -162,7 +145,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:307](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L307)
+[src/types.ts:303](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L303)
 
 ___
 
@@ -178,7 +161,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:301](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L301)
+[src/types.ts:297](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L297)
 
 ___
 
@@ -194,7 +177,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:277](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L277)
+[src/types.ts:273](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L273)
 
 ___
 
@@ -210,7 +193,7 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:289](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L289)
+[src/types.ts:285](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L285)
 
 ___
 
@@ -226,4 +209,4 @@ CreateChatCompletionRequest
 
 #### Defined in
 
-[src/types.ts:283](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L283)
+[src/types.ts:279](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L279)

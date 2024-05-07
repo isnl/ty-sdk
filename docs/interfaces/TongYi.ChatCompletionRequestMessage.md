@@ -30,7 +30,7 @@ ChatCompletionRequestMessage
 
 #### Defined in
 
-[src/types.ts:213](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L213)
+[src/types.ts:215](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L215)
 
 ___
 
@@ -46,7 +46,7 @@ ChatCompletionRequestMessage
 
 #### Defined in
 
-[src/types.ts:219](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L219)
+[src/types.ts:221](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L221)
 
 ___
 
@@ -62,4 +62,4 @@ ChatCompletionRequestMessage
 
 #### Defined in
 
-[src/types.ts:207](https://github.com/isnl/ty-sdk/blob/fb52f37/src/types.ts#L207)
+[src/types.ts:209](https://github.com/isnl/ty-sdk/blob/6759037/src/types.ts#L209)
